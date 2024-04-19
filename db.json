@@ -1,0 +1,487 @@
+{
+    "touritem": [
+      {
+        "place":"Riga Stadium",
+        "date": "2025-04-17",
+        "city": "Riga",
+        "soldOut": false,
+        "ticketLink": "/rr",
+        "country": "Latvia",
+        "videoLink": "https://www.youtube.com/watch?v=pYymRbfjKv8",
+        "sys": {
+          "id": "riga"
+        }
+      },
+      {
+        "place":"Venice arena",
+        "date": "2024-04-18",
+        "city": "Venice",
+        "soldOut": false,
+        "ticketLink": "/",
+        "country": "Italy",
+        "videoLink": "https://www.youtube.com/watch?v=pYymRbfjKv8",
+        "sys": {
+          "id": "vnc"
+        }
+      },
+      {
+        "place":"Santiago Bernabeu",
+        "date": "2024-04-20",
+        "city": "Madrid",
+        "soldOut": false,
+        "ticketLink": "/",
+        "country": "Spain",
+        "videoLink": "https://www.youtube.com/watch?v=pYymRbfjKv8",
+        "sys": {
+          "id": "mdr"
+        }
+      },
+      {
+        "place":"Porto arena",
+        "date": "2026-04-22",
+        "city": "Porto",
+        "soldOut": false,
+        "ticketLink": "/",
+        "country": "Portugal",
+        "videoLink": "https://www.youtube.com/watch?v=pYymRbfjKv8",
+        "sys": {
+          "id": "porto"
+        }
+      },
+
+      {
+        "place":"Royal Albert Hall",
+        "date": "2024-04-23",
+        "city": "London",
+        "soldOut": true,
+        "ticketLink": "/",
+        "country": "UK",
+        "videoLink": "https://www.youtube.com/watch?v=pYymRbfjKv8",
+        "sys": {
+          "id": "london"
+        }
+      },
+
+      {
+        "place":"Madison Square Garden",
+        "date": "2024-04-27",
+        "city": "New York",
+        "soldOut": true,
+        "ticketLink": "/",
+        "country": "USA",
+        "videoLink": "https://www.youtube.com/watch?v=pYymRbfjKv8",
+        "sys": {
+          "id": "ny"
+        }
+      },
+
+      {
+        "place":"Ledovy",
+        "date": "2024-04-29",
+        "city": "Saint-Petersburg",
+        "soldOut": false,
+        "ticketLink": "/",
+        "country": "Russia",
+        "videoLink": "https://www.youtube.com/watch?v=pYymRbfjKv8",
+        "sys": {
+          "id": "spb"
+        }
+      }
+ 
+    ],
+    "track": [
+      {
+        "date": "2024-04-29",
+        "title": "я знаю что делал прошлым летом",
+        "link": {
+          "url": "/"
+        },
+        "cover": {
+          "url": "https://t2.genius.com/unsafe/419x419/https%3A%2F%2Fimages.genius.com%2Fa12482547c807015cbb8885c9c41a905.1000x1000x1.png"
+        },
+        "description": "something",
+        "sys": {
+          "id": "1"
+        }
+      },
+      {
+        "date": "2024-04-29",
+        "title": "лига пасного интернета",
+        "link": {
+          "url": "/"
+        },
+        "cover": {
+          "url": "https://t2.genius.com/unsafe/419x419/https%3A%2F%2Fimages.genius.com%2Fef1cd6d9de3dd2912e057e5c0aaa75e3.1000x1000x1.png"
+        },
+        "description": "something",
+        "sys": {
+          "id": "2"
+        }
+      },
+      {
+        "date": "2024-04-29",
+        "title": "1 kla$",
+        "link": {
+          "url": "/"
+        },
+        "cover": {
+          "url": "https://t2.genius.com/unsafe/419x419/https%3A%2F%2Fimages.genius.com%2Fe63068c20f33671b24fef414b9a645f3.1000x1000x1.png"
+        },
+        "description": "something",
+        "sys": {
+          "id": "3"
+        }
+      }
+    ],
+    "newsitem": [
+      {
+        "id": "1",
+        "title": "OXY показал, как снимал клип",
+        "date": "2024-04-23",
+        "description": {
+          "json": {
+            "data": {},
+            "content": [
+              {
+                "data": {}, "content": 
+                [
+                  {"data": {}, "marks": [], "value": "", "nodeType": "text"}
+                ], 
+                "nodeType": "heading-3"
+              },
+              {
+                "data": {}, "content": 
+                  [
+                    {"data": {}, "marks": [], "value": "", "nodeType": "text"}
+                  ], 
+                "nodeType": "paragraph"
+              },
+              {
+                "data": {}, "content": 
+                  [
+                    {"data": {}, "marks": [], "value": "", "nodeType": "text"},
+                    {"data": {}, "marks": [], "value": "", "nodeType": "text"}
+                  ], 
+                "nodeType": "embedded-asset-block"
+              },
+              {
+                "data": {}, "content": [], "nodeType": "paragraph"
+              },
+              {
+                "data": {}, "content": 
+                  [
+                    {"data": {}, "marks": [], "value": "", "nodeType": "text"}
+                  ], 
+                "nodeType": "unordered-list"
+              },
+              {
+                "data": {}, "content": 
+                  [
+                    {"data": {}, "marks": [], "value": "", "nodeType": "text"}
+                  ], 
+                "nodeType": "paragraph"
+              }
+            ],
+            "nodeType": "document"
+          }
+        },
+        "cover": {
+          "url": "https://t2.genius.com/unsafe/419x419/https%3A%2F%2Fimages.genius.com%2Fa12482547c807015cbb8885c9c41a905.1000x1000x1.png"
+        },
+        "sys": {
+          "id": "1"
+        }
+      },
+      {
+        "id": "2",
+        "title": "О чем новый трек",
+        "date": "2024-04-23",
+        "description": {
+          "json": {
+            "data": {},
+            "content": [
+              {
+                "data": {}, "content": 
+                [
+                  {"data": {}, "marks": [], "value": "", "nodeType": "text"}
+                ], 
+                "nodeType": "heading-3"
+              },
+              {
+                "data": {}, "content": 
+                  [
+                    {"data": {}, "marks": [], "value": "", "nodeType": "text"}
+                  ], 
+                "nodeType": "paragraph"
+              },
+              {
+                "data": {}, "content": 
+                  [
+                    {"data": {}, "marks": [], "value": "", "nodeType": "text"},
+                    {"data": {}, "marks": [], "value": "", "nodeType": "text"}
+                  ], 
+                "nodeType": "embedded-asset-block"
+              },
+              {
+                "data": {}, "content": [], "nodeType": "paragraph"
+              },
+              {
+                "data": {}, "content": 
+                  [
+                    {"data": {}, "marks": [], "value": "", "nodeType": "text"}
+                  ], 
+                "nodeType": "unordered-list"
+              },
+              {
+                "data": {}, "content": 
+                  [
+                    {"data": {}, "marks": [], "value": "", "nodeType": "text"}
+                  ], 
+                "nodeType": "paragraph"
+              }
+            ],
+            "nodeType": "document"
+          }
+        },
+        "cover": {
+          "url": "https://t2.genius.com/unsafe/419x419/https%3A%2F%2Fimages.genius.com%2Fa12482547c807015cbb8885c9c41a905.1000x1000x1.png"
+        },
+        "sys": {
+          "id": "2"
+        }
+      },
+      {
+        "id": "3",
+        "title": "Сколько весит бегемот",
+        "date": "2024-04-23",
+        "description": {
+          "json": {
+            "data": {},
+            "content": [
+              {
+                "data": {}, "content": 
+                [
+                  {"data": {}, "marks": [], "value": "", "nodeType": "text"}
+                ], 
+                "nodeType": "heading-3"
+              },
+              {
+                "data": {}, "content": 
+                  [
+                    {"data": {}, "marks": [], "value": "", "nodeType": "text"}
+                  ], 
+                "nodeType": "paragraph"
+              },
+              {
+                "data": {}, "content": 
+                  [
+                    {"data": {}, "marks": [], "value": "", "nodeType": "text"},
+                    {"data": {}, "marks": [], "value": "", "nodeType": "text"}
+                  ], 
+                "nodeType": "embedded-asset-block"
+              },
+              {
+                "data": {}, "content": [], "nodeType": "paragraph"
+              },
+              {
+                "data": {}, "content": 
+                  [
+                    {"data": {}, "marks": [], "value": "", "nodeType": "text"}
+                  ], 
+                "nodeType": "unordered-list"
+              },
+              {
+                "data": {}, "content": 
+                  [
+                    {"data": {}, "marks": [], "value": "", "nodeType": "text"}
+                  ], 
+                "nodeType": "paragraph"
+              }
+            ],
+            "nodeType": "document"
+          }
+        },
+        "cover": {
+          "url": "https://t2.genius.com/unsafe/419x419/https%3A%2F%2Fimages.genius.com%2Fa12482547c807015cbb8885c9c41a905.1000x1000x1.png"
+        },
+        "sys": {
+          "id": "3"
+        }
+      },
+      {
+        "id": "4",
+        "title": "куда улетают птицы",
+        "date": "2024-04-23",
+        "description": {
+          "json": {
+            "data": {},
+            "content": [
+              {
+                "data": {}, "content": 
+                [
+                  {"data": {}, "marks": [], "value": "", "nodeType": "text"}
+                ], 
+                "nodeType": "heading-3"
+              },
+              {
+                "data": {}, "content": 
+                  [
+                    {"data": {}, "marks": [], "value": "", "nodeType": "text"}
+                  ], 
+                "nodeType": "paragraph"
+              },
+              {
+                "data": {}, "content": 
+                  [
+                    {"data": {}, "marks": [], "value": "", "nodeType": "text"},
+                    {"data": {}, "marks": [], "value": "", "nodeType": "text"}
+                  ], 
+                "nodeType": "embedded-asset-block"
+              },
+              {
+                "data": {}, "content": [], "nodeType": "paragraph"
+              },
+              {
+                "data": {}, "content": 
+                  [
+                    {"data": {}, "marks": [], "value": "", "nodeType": "text"}
+                  ], 
+                "nodeType": "unordered-list"
+              },
+              {
+                "data": {}, "content": 
+                  [
+                    {"data": {}, "marks": [], "value": "", "nodeType": "text"}
+                  ], 
+                "nodeType": "paragraph"
+              }
+            ],
+            "nodeType": "document"
+          }
+        },
+        "cover": {
+          "url": "https://t2.genius.com/unsafe/419x419/https%3A%2F%2Fimages.genius.com%2Fa12482547c807015cbb8885c9c41a905.1000x1000x1.png"
+        },
+        "sys": {
+          "id": "4"
+        }
+      },
+      {
+        "id": "5",
+        "title": "реппер ты реппер я",
+        "date": "2024-04-23",
+        "description": {
+          "json": {
+            "data": {},
+            "content": [
+              {
+                "data": {}, "content": 
+                [
+                  {"data": {}, "marks": [], "value": "", "nodeType": "text"}
+                ], 
+                "nodeType": "heading-3"
+              },
+              {
+                "data": {}, "content": 
+                  [
+                    {"data": {}, "marks": [], "value": "", "nodeType": "text"}
+                  ], 
+                "nodeType": "paragraph"
+              },
+              {
+                "data": {}, "content": 
+                  [
+                    {"data": {}, "marks": [], "value": "", "nodeType": "text"},
+                    {"data": {}, "marks": [], "value": "", "nodeType": "text"}
+                  ], 
+                "nodeType": "embedded-asset-block"
+              },
+              {
+                "data": {}, "content": [], "nodeType": "paragraph"
+              },
+              {
+                "data": {}, "content": 
+                  [
+                    {"data": {}, "marks": [], "value": "", "nodeType": "text"}
+                  ], 
+                "nodeType": "unordered-list"
+              },
+              {
+                "data": {}, "content": 
+                  [
+                    {"data": {}, "marks": [], "value": "", "nodeType": "text"}
+                  ], 
+                "nodeType": "paragraph"
+              }
+            ],
+            "nodeType": "document"
+          }
+        },
+        "cover": {
+          "url": "https://t2.genius.com/unsafe/419x419/https%3A%2F%2Fimages.genius.com%2Fa12482547c807015cbb8885c9c41a905.1000x1000x1.png"
+        },
+        "sys": {
+          "id": "5"
+        }
+      },
+      {
+        "id": "6",
+        "title": "во все тяжкие",
+        "date": "2024-04-23",
+        "description": {
+          "json": {
+            "data": {},
+            "content": [
+              {
+                "data": {}, "content": 
+                [
+                  {"data": {}, "marks": [], "value": "", "nodeType": "text"}
+                ], 
+                "nodeType": "heading-3"
+              },
+              {
+                "data": {}, "content": 
+                  [
+                    {"data": {}, "marks": [], "value": "", "nodeType": "text"}
+                  ], 
+                "nodeType": "paragraph"
+              },
+              {
+                "data": {}, "content": 
+                  [
+                    {"data": {}, "marks": [], "value": "", "nodeType": "text"},
+                    {"data": {}, "marks": [], "value": "", "nodeType": "text"}
+                  ], 
+                "nodeType": "embedded-asset-block"
+              },
+              {
+                "data": {}, "content": [], "nodeType": "paragraph"
+              },
+              {
+                "data": {}, "content": 
+                  [
+                    {"data": {}, "marks": [], "value": "", "nodeType": "text"}
+                  ], 
+                "nodeType": "unordered-list"
+              },
+              {
+                "data": {}, "content": 
+                  [
+                    {"data": {}, "marks": [], "value": "", "nodeType": "text"}
+                  ], 
+                "nodeType": "paragraph"
+              }
+            ],
+            "nodeType": "document"
+          }
+        },
+        "cover": {
+          "url": "https://t2.genius.com/unsafe/419x419/https%3A%2F%2Fimages.genius.com%2Fa12482547c807015cbb8885c9c41a905.1000x1000x1.png"
+        },
+        "sys": {
+          "id": "6"
+        }
+      }
+    ]
+  }
+  
