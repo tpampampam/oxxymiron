@@ -16,3 +16,10 @@ ReactDOM.createRoot(document.getElementById('root')!).render(
 
 // npm run dev  запуск прилож
 //npx json-server db.json --port 8000  запуск сервера
+
+
+
+// сделать анимации
+// докер подключить
+// добавить в гит - вытащить из гита
+// разобрать формулу
