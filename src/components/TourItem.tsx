@@ -28,9 +28,9 @@ const TourItem:FC<Venue & {i?: string | number}> = ({
 
     return(
         <motion.li
-        initial={{y: -500, opacity: 0}}
-        animate={{ y: 0 , opacity: 1}}
-        transition={{  duration: 2 }}
+            initial={{y: -500, opacity: 0}}
+            animate={{ y: 0 , opacity: 1}}
+            transition={{  duration: 2 }}
         >
             <div className="tour-item">
                 <div className="tour-item__info">

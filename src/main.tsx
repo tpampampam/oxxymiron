@@ -19,7 +19,5 @@ ReactDOM.createRoot(document.getElementById('root')!).render(
 
 
 
-// сделать анимации
-// докер подключить
-// добавить в гит - вытащить из гита
+
 // разобрать формулу
